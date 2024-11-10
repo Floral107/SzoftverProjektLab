@@ -15,7 +15,7 @@ a mappába navigálunk, ahol lefordítottuk a programot. A fordítást követőe
 ```java game.Main```
 
 
-##Projekt
+# Projekt
 
 A feladatot amely egy játék elkészítése volt egy 5 fős csapattal oldottuk meg. A játék leírása a következő volt:
 A Műegyetem Központi épületének alagsora alatt egy elátkozott labirintus rejtőzik. A mérnökhallgatók dolga fellelni a Logarléc nevű mágikus képességű ereklyét. A labirintus szobáit ajtók választják el egymástól, ezeken átlépve lehet az egyik szobából a másikba átjutni. Egy-egy szobából legalább egy, de esetenként sok másik szobába is nyílhat ajtó. Vannak ráadásul ajtók, amelyek csak egy irányban használhatók.
